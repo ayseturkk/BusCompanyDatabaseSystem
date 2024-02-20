@@ -1,4 +1,4 @@
-# BusCompanyDatabaseSystem
+# Bus Company Database System
 Our system, as the name suggests, is the website of a bus company. We designed a 
 website that contains various information about a bus company according to the route and 
 time preferred by normal users and corporate users. We also have a table in the background 
